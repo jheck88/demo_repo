@@ -1,0 +1,8 @@
+#spring:
+#  main:
+#    web-application-type: none
+#server:
+#  port: 9000
+#logging:
+#  level:
+#    org.springframework: ERROR
