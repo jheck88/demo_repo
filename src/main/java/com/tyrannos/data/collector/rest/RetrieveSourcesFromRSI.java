@@ -1,8 +1,8 @@
 package com.tyrannos.data.collector.rest;
 
 import com.google.gson.Gson;
-import com.tyrannos.data.collector.ShipData;
-import com.tyrannos.data.collector.json.Ship;
+import com.tyrannos.data.collector.collectors.ShipData;
+import com.tyrannos.data.collector.json_model.Ship;
 import com.tyrannos.data.collector.util.DBManager;
 import com.tyrannos.data.collector.util.Utilities;
 import org.apache.commons.collections4.CollectionUtils;

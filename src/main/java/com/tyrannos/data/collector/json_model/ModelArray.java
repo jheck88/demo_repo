@@ -1,4 +1,4 @@
-package com.tyrannos.data.collector.json;
+package com.tyrannos.data.collector.json_model;
 
 import java.util.List;
 

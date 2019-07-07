@@ -1,9 +1,6 @@
-package com.tyrannos.data.collector;
+package com.tyrannos.data.collector.collectors;
 
 import com.google.gson.*;
-import com.tyrannos.data.collector.json.ModelArray;
-import com.tyrannos.data.collector.json.Model;
-import com.tyrannos.data.collector.json.Ship;
 import com.tyrannos.data.collector.util.DBManager;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.log4j.Logger;
