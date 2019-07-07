@@ -2,6 +2,7 @@ debug
 .idea/
 .idea/**
 **/*.log
+**/*.log.*
 target/
 target/**
 *.iml
